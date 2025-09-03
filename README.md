@@ -37,12 +37,12 @@
 - 🚀 [POC Clean Architecture .NET](#)  
 - 🛰️ [Kafka Event-Driven Sample](#)  
 - 🤖 [OpenAI Automation with .NET](#)  
-- 🔗 [[Portfolio](https://araujostechsolutions.my.canva.site/)]
+- 🔗 [Portfolio](https://araujostechsolutions.my.canva.site/)
 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taviovieira)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([www.linkedin.com/in/távio-vieira-araújo-70a17979])  
 ✉️ Email: taviovieira89@gmail.com  
 
 ---
