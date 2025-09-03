@@ -42,7 +42,7 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([www.linkedin.com/in/távio-vieira-araújo-70a17979])  
+[![LinkedIn]([www.linkedin.com/in/távio-vieira-araújo-70a17979])  
 ✉️ Email: taviovieira89@gmail.com  
 
 ---
