@@ -37,7 +37,7 @@
 - 🚀 [POC Clean Architecture .NET](#)  
 - 🛰️ [Kafka Event-Driven Sample](#)  
 - 🤖 [OpenAI Automation with .NET](#)  
-- 🔗 [Your Portfolio Website](#) (If created)
+- 🔗 [[Portfolio](https://araujostechsolutions.my.canva.site/)]
 
 ---
 
